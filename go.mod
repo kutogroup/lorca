@@ -1,4 +1,4 @@
-module lorca
+module github.com/kutogroup/lorca
 
 go 1.17
 
